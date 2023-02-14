@@ -1,3 +1,3 @@
 # Anastasia Sokol
 
-Find out about me [here](anastasiajsokol.github.io)
+Find out about me [here](https://anastasiajsokol.github.io)
