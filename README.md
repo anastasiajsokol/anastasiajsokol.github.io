@@ -1,2 +1,3 @@
-# anastasiajsokol.github.io
-my personal website
+# Anastasia Sokol
+
+Find out about me [here](anastasiajsokol.github.io)
