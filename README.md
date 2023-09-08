@@ -1,3 +1,3 @@
 # Anastasia Sokol
 
-Find out about me [here](https://anastasiajsokol.github.io)
+My official website is [here](https://www.anastasiajsokol.com)
